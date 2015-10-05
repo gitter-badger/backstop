@@ -1,5 +1,7 @@
 # Backstop
 
+[![Join the chat at https://gitter.im/darreldonnelly/backstop](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/darreldonnelly/backstop?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://secure.travis-ci.org/obfuscurity/backstop.png?branch=master)](http://travis-ci.org/obfuscurity/backstop)
 
 Backstop is a simple endpoint for submitting metrics to Graphite. It accepts JSON data via HTTP POST and proxies the data to one or more Carbon/Graphite listeners.
